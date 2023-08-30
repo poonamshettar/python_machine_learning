@@ -1,0 +1,9 @@
+,computer,user,result
+0,scissors,rock,win
+1,scissors,rock,win
+2,rock,paper,win
+3,rock,paper,win
+4,rock,scissors,loss
+5,paper,rock,loss
+6,paper,paper,tie
+7,scissors,scissors,tie
